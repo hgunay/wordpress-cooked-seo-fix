@@ -10,7 +10,7 @@
 
 4. Finally add these rows in to "$schema_array" variable in "schema_values" function. (php file added)
 
-All of these optional tags for Google but i think "keywords" and "video" tags are important tags.
+All of these optional tags for Google but i think "keywords" and "video" tags are important.
 ``` php
 'keywords' => ( isset($recipe['title']) ? $recipe['title'] : '' )
 ```
