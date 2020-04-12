@@ -1,5 +1,4 @@
-# Wordpress Cooked Plugin
-Wordpress Cooked Plugin SEO Optimization Fix
+# Wordpress Cooked Plugin SEO Optimization Fix
 
 1. Go to plugin editor (wordpress menu > plugins > edit plugins)
 
